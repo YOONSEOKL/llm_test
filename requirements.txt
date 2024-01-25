@@ -1,0 +1,6 @@
+openai
+streamlit
+ast
+os
+numpy
+pandas
