@@ -1,4 +1,8 @@
+pip
 openai==0.28.1
 streamlit
 streamlit-chat
 matplotlib
+scipy
+plotly
+scikit-learn
