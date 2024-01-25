@@ -1,3 +1,5 @@
+pip install openai==0.28.1
+
 import os
 import pandas as pd
 import numpy as np
