@@ -1,3 +1,4 @@
 openai
 streamlit
-get_embedding
+streamlit-chat
+matplotlib scipy plotly scikit-learn
