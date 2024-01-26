@@ -9,7 +9,7 @@ from openai.embeddings_utils import get_embedding
 import streamlit as st
 from streamlit_chat import message
 
-openai.api_key = "&{this.key}"
+openai.api_key = "${this.key}"
 #############################################################################################
 def get_apikey(key_name, json_filename='secret.json'):
     # 해당 py파일의 속해 있는 폴더가 base_dir
